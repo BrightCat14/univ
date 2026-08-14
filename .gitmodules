@@ -1,0 +1,9 @@
+[submodule "xdeb"]
+	path = xdeb
+	url = https://github.com/xdeb-org/xdeb.git
+[submodule "tarinsta"]
+	path = tarinsta
+	url = https://github.com/BrightCat14/tarinsta.git
+[submodule "alien"]
+	path = alien
+	url = https://github.com/mildred/alien.git
